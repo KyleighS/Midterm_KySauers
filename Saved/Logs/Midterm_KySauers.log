@@ -1670,3 +1670,8 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.10-20.38.59:840][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.10.10-20.38.59:841][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.10.10-20.38.59:885][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.10.10-20.45.45:389][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.10.10-20.45.45:399][ 87]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MainLevel/MainLevel_Auto1
+[2023.10.10-20.45.45:399][ 87]LogSavePackage: Moving '../../../../../../Users/ksauers/Documents/UnrealProjects/Midterm_KySauers/Saved/MainLevel_Auto198253B684A086D358D912B9D2799AC25.tmp' to '../../../../../../Users/ksauers/Documents/UnrealProjects/Midterm_KySauers/Saved/Autosaves/Game/MainLevel/MainLevel_Auto1.umap'
+[2023.10.10-20.45.45:401][ 87]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainLevel/MainLevel' took 0.023
+[2023.10.10-20.45.45:401][ 87]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
