@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/ksauers/Documents/UnrealProjects/Midterm_KySauers/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/ksauers/Documents/UnrealProjects/Midterm_KySauers/Content/MainLevel/MainLevel.umap"
+				"C:/Users/ksauers/Documents/UnrealProjects/Midterm_KySauers/Content/MainLevel/MainLevel.umap",
+				"C:/Users/ksauers/Documents/UnrealProjects/Midterm_KySauers/Content/MainLevel/BP_Portals.uasset"
 			]
 		}
 	]
